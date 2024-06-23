@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RadioBtnCheckbox</string>
+    <string name="radio_btn_1">Radio button 1</string>
+    <string name="radio_btn_2">Radio button 2</string>
+    <string name="radio_btn_3">Radio button 3</string>
+    <string name="radio_btn_4">Radio button 4</string>
+    <string name="radio_btn_5">Radio button 5</string>
+    <string name="checkbox_1">checkbox 1</string>
+    <string name="checkbox_2">checkbox 2</string>
+    <string name="checkbox_3">checkbox 3</string>
+    <string name="checkbox_4">checkbox 4</string>
+    <string name="checkbox_5">checkbox 5</string>
+    <string name="cost_of_service">Cost of Service</string>
+    <string name="how_was_the_service">How was the service?</string>
+    <string name="amazing_service">Amazing (20%)</string>
+    <string name="good_service">Good (18%)</string>
+    <string name="ok_service">Okay (15%)</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="calculate">Calculate</string>
+    <string name="tip_amount">Tip Amount</string>
+</resources>
